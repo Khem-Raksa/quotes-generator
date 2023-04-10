@@ -15,3 +15,4 @@ quoteButton.addEventListener("click",()=>{
 copyButton.addEventListener("click",()=>{
     navigator.clipboard.writeText(quoteText.innerHTML)
 })
+
